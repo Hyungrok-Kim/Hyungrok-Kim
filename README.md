@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ## Junior S/W Developer
-
-<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></p>
-
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungrok-Kim&count_bg=%2375AFDB&title_bg=%23B4E570&icon=oracle.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</p>
 <b>👋Stack! </b> <br />
 <img src="https://img.shields.io/badge/HTML5-20c997?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
