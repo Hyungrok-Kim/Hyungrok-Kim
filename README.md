@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungrok-Kim&count_bg=%2378C2E7&title_bg=%23555555&icon=&icon_color=%2378C2E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 👋 Stack <br />
-
 <img src="https://img.shields.io/badge/HTML5-20c997?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
