@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Hyungrok-Kim/Hyungrok-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +18,5 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungrok-Kim&count_bg=%2378C2E7&title_bg=%23555555&icon=&icon_color=%2378C2E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungrok-Kim&count_bg=%2378C2E7&title_bg=%23555555&icon=&icon_color=%2378C2E7&title=hits&edge_flat=false"/></a>
+👋Stack
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
