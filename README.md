@@ -42,8 +42,8 @@
 <p align="center">•••</p>
 <hr>
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyungrok-Kim&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&line_height=30" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&theme=onedark&card_width=250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyungrok-Kim&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&line_height=30&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&theme=onedark&card_width=300" />
 </p>
 
 
