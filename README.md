@@ -41,9 +41,9 @@
 </div></br>
 <p align="center">•••</p>
 <hr>
-<div style="float:right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyungrok-Kim&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&line_height=30" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&theme=onedark" />
+<div style="float:left">
+  <img style="float:left" src="https://github-readme-stats.vercel.app/api?username=Hyungrok-Kim&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&line_height=30" />
+  <img style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&theme=onedark" />
 </div>
 
 
