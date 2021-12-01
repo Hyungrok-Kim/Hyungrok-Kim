@@ -14,7 +14,6 @@
   <b><i>TODAY</i></b></br> 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungrok-Kim&count_bg=%2375AFDB&title_bg=%23B4E570&icon=oracle.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
-<hr>
 <p align="center"><b>
   👋Stack!
 </b></p></br>
@@ -43,7 +42,7 @@
 <p align="center">•••</p>
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hyungrok-Kim&hide=prs,issues&count_private=true&show_icons=true&theme=dracula&line_height=30" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&theme=onedark&card_width=380" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&theme=onedark" />
 
 
 
