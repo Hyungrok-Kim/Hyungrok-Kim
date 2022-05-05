@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Junior Developer
+#### Junior Java Developer
 <!-- 
 <p align="center">
   <b>
