@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div></br>
 <p align="center">•••</p>
-<hr>
 <!-- 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Hyungrok-Kim&hide=prs,issues&count_private=true&show_icons=true&line_height=30" />
