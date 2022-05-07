@@ -18,10 +18,11 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungrok-Kim&count_bg=%2375AFDB&title_bg=%23B4E570&icon=oracle.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p> -->
 
-<p align="center">
-  <b>👋Stack😄</b>
-</p>
 </br>
+<p align="center">
+  <b>⚡Stack😄</b>
+</p>
+<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-20c997?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
@@ -52,6 +53,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyungrok-Kim&layout=compact&card_width=295" />
 </p>
  -->
+<p align="center">
+  <b>🔭 I’m currently working on ...</b>
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-20c997?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+</div></br>
+<hr>
+ 
 
 
 
