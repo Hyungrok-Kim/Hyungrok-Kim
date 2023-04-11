@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white">
   •••
-</ul>
+</ul><br>
   <li><b><i>💻 Currently working on ...</i></b></li>
 <ul>
 <!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> -->
