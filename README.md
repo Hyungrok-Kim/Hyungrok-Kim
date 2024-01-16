@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Java Backend Developer
+#### Backend Developer
 ----------------------------
  
 + ___📚 Stack___
