@@ -9,7 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Backend Developer
+<p align="center"><i>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. ”</i></p>
+<p align="center"><i>- Martin Golding -</i></p>
 
 ----------------------------
  
@@ -61,8 +62,4 @@
      <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /> -->
      <!-- <img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />  -->
 ----------------------------
- 
-<p align="center"><i>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. ”</i></p>
-<p align="center"><i>- Martin Golding -</i></p>
 
-----------------------------
