@@ -14,7 +14,7 @@
 
 <table width="2000">
 <tr>
-<td width="2000">
+<td width="1500">
  
 <p align="center"><i>Stack •••</i></p>
 <p align="left">
@@ -47,13 +47,9 @@
      <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white" />
      •••
 </td>
-</tr>
-</table>
-
-<table width="2000">
-<tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?username=Hyungrok-Kim&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+<td width="500">
+ <img src="https://github-trophies.vercel.app/?username=Hyungrok-Kim&rank=SECRET,SSS,SS,S,AAA,AA&row=9&column=2&theme=gruvbox">
+</td>
 </tr>
 </table>
 
