@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><i>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. ”</i></p>
+<p align="center"><i>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”</i></p>
 <p align="center"><i>- Martin Golding -</i></p>
 
 <table width="2000">
